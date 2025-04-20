@@ -1,10 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Sun Apr 20 15:06:42 2025
-
-@author: yoyop
-"""
-
 # app.py
 import streamlit as st
 import pickle
@@ -18,7 +11,7 @@ import numpy as np
 st.set_page_config(page_title="K-Means Clustering App", layout="centered")
 
 # Title
-st.title("K-Means Clustering App with Iris Dataset by Thawathchai duangmala")
+st.title("K-Means Clustering App with Iris Dataset by Thawatchai duangmala")
 
 # Sidebar for user interaction
 st.sidebar.header("Configure Clustering")
