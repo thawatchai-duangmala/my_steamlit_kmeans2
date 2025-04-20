@@ -11,7 +11,7 @@ import numpy as np
 st.set_page_config(page_title="K-Means Clustering App", layout="centered")
 
 # Title
-st.title("K-Means Clustering App with Iris Dataset by Thawatchai duangmalaๅๅๅ")
+st.title("K-Means Clustering App with Iris Dataset by Thawatchai duangmala")
 
 # Sidebar for user interaction
 st.sidebar.header("Configure Clustering")
